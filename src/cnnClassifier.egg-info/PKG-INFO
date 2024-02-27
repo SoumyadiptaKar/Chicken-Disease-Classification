@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/SoumyadiptaKar/Chicken-Disease-Classification
+Author: SoumyadiptaKar
+Author-email: k.sammy2002@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/SoumyadiptaKar/Chicken-Disease-Classification/issues
+Platform: UNKNOWN
+License-File: LICENSE
+
+# Chicken-Disease-Classification
+This Repository contains an end to end chicken disease classification project.
+
+
