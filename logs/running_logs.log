@@ -125,3 +125,104 @@ Source-Age: 0
 
 ]
 [2024-02-28 20:40:47,141: INFO: main: >>>>>>> stage Data Ingestion stage completed <<<<<<<]
+[2024-02-28 22:33:35,658: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:33:35,674: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:33:35,677: INFO: common: created directory at: artifacts]
+[2024-02-28 22:33:35,680: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:34:36,391: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:34:36,395: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:34:36,397: INFO: common: created directory at: artifacts]
+[2024-02-28 22:34:36,400: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:36:47,739: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:36:47,744: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:36:47,748: INFO: common: created directory at: artifacts]
+[2024-02-28 22:36:47,752: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:37:50,396: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:37:50,402: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:37:50,406: INFO: common: created directory at: artifacts]
+[2024-02-28 22:37:50,409: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:38:22,368: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:38:22,374: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:38:22,377: INFO: common: created directory at: artifacts]
+[2024-02-28 22:38:22,381: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:39:35,169: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:39:35,173: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:39:35,175: INFO: common: created directory at: artifacts]
+[2024-02-28 22:39:35,177: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:40:13,104: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:40:13,111: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:40:13,114: INFO: common: created directory at: artifacts]
+[2024-02-28 22:40:13,117: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:41:11,399: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:41:11,403: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:41:11,406: INFO: common: created directory at: artifacts]
+[2024-02-28 22:41:11,408: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:41:41,982: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:41:41,987: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:41:41,990: INFO: common: created directory at: artifacts]
+[2024-02-28 22:41:41,992: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:42:11,922: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-28 22:42:13,642: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:42:13,645: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:42:13,647: INFO: common: created directory at: artifacts]
+[2024-02-28 22:42:13,649: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:42:27,185: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:42:27,190: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:42:27,194: INFO: common: created directory at: artifacts]
+[2024-02-28 22:42:27,197: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:43:35,693: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 22:43:35,698: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 22:43:35,701: INFO: common: created directory at: artifacts]
+[2024-02-28 22:43:35,705: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 22:43:36,151: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-28 22:43:36,356: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-28 22:43:37,051: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-28 23:40:51,325: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-28 23:40:52,785: INFO: main: >>>>>>> stage Data Ingestion stage started <<<<<<<]
+[2024-02-28 23:40:52,787: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 23:40:52,790: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 23:40:52,791: INFO: common: created directory at: artifacts]
+[2024-02-28 23:40:52,793: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-28 23:40:58,983: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info : 
+Connection: close
+Content-Length: 11595077
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "610dd053ec8fbeb9803ceabd7ed103c59f22336d3578de69daa7fd818acde3e0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: EA8A:221F91:52AFA9:6ABFBA:65DF772E
+Accept-Ranges: bytes
+Date: Wed, 28 Feb 2024 18:10:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10234-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1709143854.387050,VS0,VE767
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 18354344ce62455913ec850be8233552f1d3d835
+Expires: Wed, 28 Feb 2024 18:15:55 GMT
+Source-Age: 0
+
+]
+[2024-02-28 23:40:59,830: INFO: main: >>>>>>> stage Data Ingestion stage completed <<<<<<<]
+[2024-02-28 23:40:59,831: INFO: main: >>>>>>> stage Prepare Base Model stage started <<<<<<<]
+[2024-02-28 23:40:59,834: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 23:40:59,837: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 23:40:59,838: INFO: common: created directory at: artifacts]
+[2024-02-28 23:40:59,840: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-28 23:41:00,325: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-28 23:41:00,461: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-28 23:41:01,125: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-28 23:41:01,516: INFO: main: >>>>>>> stage Prepare Base Model stage completed <<<<<<<]
