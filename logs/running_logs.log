@@ -498,3 +498,223 @@ Source-Age: 0
 [2024-02-29 09:52:46,649: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
 ]
 [2024-02-29 09:56:28,795: INFO: main: >>>>>>> stage Training completed <<<<<<<]
+[2024-02-29 11:43:02,094: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 11:43:02,101: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 11:43:02,104: INFO: common: created directory at: artifacts]
+[2024-02-29 11:43:03,738: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 11:43:11,508: INFO: common: json file saved at: scores.json]
+[2024-02-29 12:00:13,027: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 12:00:16,583: INFO: main: >>>>>>> stage Data Ingestion stage started <<<<<<<]
+[2024-02-29 12:00:16,591: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 12:00:16,595: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 12:00:16,602: INFO: common: created directory at: artifacts]
+[2024-02-29 12:00:16,606: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-29 12:00:26,711: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info : 
+Connection: close
+Content-Length: 11595077
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "610dd053ec8fbeb9803ceabd7ed103c59f22336d3578de69daa7fd818acde3e0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8080:27432B:4B8B7D:633FF1:65E02478
+Accept-Ranges: bytes
+Date: Thu, 29 Feb 2024 06:30:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10238-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1709188217.057092,VS0,VE922
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2f1ef0110de22fa2bbc4f13d495a2300b201b8b8
+Expires: Thu, 29 Feb 2024 06:35:17 GMT
+Source-Age: 1
+
+]
+[2024-02-29 12:00:28,119: INFO: main: >>>>>>> stage Data Ingestion stage completed <<<<<<<]
+[2024-02-29 12:00:28,120: INFO: main: >>>>>>> stage Prepare Base Model stage started <<<<<<<]
+[2024-02-29 12:00:28,126: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 12:00:28,132: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 12:00:28,134: INFO: common: created directory at: artifacts]
+[2024-02-29 12:00:28,136: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-29 12:00:28,975: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 12:00:29,218: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 12:00:30,369: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-29 12:00:30,998: INFO: main: >>>>>>> stage Prepare Base Model stage completed <<<<<<<]
+[2024-02-29 12:00:30,999: INFO: main: >>>>>>> stage Training started <<<<<<<]
+[2024-02-29 12:00:31,007: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 12:00:31,013: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 12:00:31,015: INFO: common: created directory at: artifacts]
+[2024-02-29 12:00:31,024: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 12:00:31,026: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 12:00:31,033: INFO: common: created directory at: artifacts\training]
+[2024-02-29 12:00:33,788: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 12:07:51,794: INFO: main: >>>>>>> stage Training completed <<<<<<<]
+[2024-02-29 12:07:51,795: INFO: main: >>>>>>> stage Evaluation started <<<<<<<]
+[2024-02-29 12:07:51,804: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 12:07:51,809: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 12:07:51,811: INFO: common: created directory at: artifacts]
+[2024-02-29 12:08:07,659: INFO: common: json file saved at: scores.json]
+[2024-02-29 12:08:07,661: INFO: main: >>>>>>> stage Evaluation completed <<<<<<<]
+[2024-02-29 14:38:04,160: INFO: stage_01_data_ingestion: >>>>>>> stage Data ingestion stage started <<<<<<<]
+[2024-02-29 14:38:04,162: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:38:04,165: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:38:04,166: INFO: common: created directory at: artifacts]
+[2024-02-29 14:38:04,167: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-29 14:38:08,529: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info : 
+Connection: close
+Content-Length: 11595077
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "610dd053ec8fbeb9803ceabd7ed103c59f22336d3578de69daa7fd818acde3e0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4ACA:23010B:56C596:71064F:65E04974
+Accept-Ranges: bytes
+Date: Thu, 29 Feb 2024 09:08:05 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10245-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1709197685.865873,VS0,VE744
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: abf28ed6f9b826aa7e7c865342da6f3117f99d1a
+Expires: Thu, 29 Feb 2024 09:13:05 GMT
+Source-Age: 0
+
+]
+[2024-02-29 14:38:09,122: INFO: stage_01_data_ingestion: >>>>>>> stage Data ingestion stage completed <<<<<<<]
+[2024-02-29 14:38:23,589: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 14:38:24,759: INFO: stage_02_prepare_base_model: >>>>>>> stage Preparing Base Model started <<<<<<<]
+[2024-02-29 14:38:24,763: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:38:24,765: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:38:24,766: INFO: common: created directory at: artifacts]
+[2024-02-29 14:38:24,767: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-29 14:38:24,951: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 14:38:25,033: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 14:38:25,455: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-29 14:38:25,707: INFO: stage_02_prepare_base_model: >>>>>>> stage Preparing Base Model completed <<<<<<<]
+[2024-02-29 14:38:34,026: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 14:38:35,214: INFO: stage_03_training: >>>>>>> stage Training started <<<<<<<]
+[2024-02-29 14:38:35,216: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:38:35,219: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:38:35,220: INFO: common: created directory at: artifacts]
+[2024-02-29 14:38:35,221: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 14:38:35,222: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 14:38:35,226: INFO: common: created directory at: artifacts\training]
+[2024-02-29 14:38:35,436: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 14:38:35,452: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 14:38:36,527: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 14:42:33,423: INFO: stage_03_training: >>>>>>> stage Training completed <<<<<<<]
+[2024-02-29 14:42:42,258: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 14:42:43,383: INFO: stage_04_evaluation: >>>>>>> stage Evaluation Stage started <<<<<<<]
+[2024-02-29 14:42:43,386: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:42:43,389: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:42:43,389: INFO: common: created directory at: artifacts]
+[2024-02-29 14:42:43,582: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 14:42:43,598: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 14:42:44,333: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 14:42:51,887: INFO: common: json file saved at: scores.json]
+[2024-02-29 14:42:51,887: INFO: stage_04_evaluation: >>>>>>> stage Evaluation Stage completed <<<<<<<]
+[2024-02-29 14:44:22,903: INFO: stage_01_data_ingestion: >>>>>>> stage Data ingestion stage started <<<<<<<]
+[2024-02-29 14:44:22,906: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:44:22,908: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:44:22,910: INFO: common: created directory at: artifacts]
+[2024-02-29 14:44:22,911: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-29 14:44:27,497: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info : 
+Connection: close
+Content-Length: 11595077
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "610dd053ec8fbeb9803ceabd7ed103c59f22336d3578de69daa7fd818acde3e0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4ACA:23010B:56C596:71064F:65E04974
+Accept-Ranges: bytes
+Date: Thu, 29 Feb 2024 09:14:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10246-MAA
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1709198064.596577,VS0,VE300
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 80a34dc4fff5ca7ac98e0f9848e8af3dca6df8fd
+Expires: Thu, 29 Feb 2024 09:19:23 GMT
+Source-Age: 0
+
+]
+[2024-02-29 14:44:28,089: INFO: stage_01_data_ingestion: >>>>>>> stage Data ingestion stage completed <<<<<<<]
+[2024-02-29 14:44:41,459: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 14:44:42,640: INFO: stage_02_prepare_base_model: >>>>>>> stage Preparing Base Model started <<<<<<<]
+[2024-02-29 14:44:42,643: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:44:42,645: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:44:42,645: INFO: common: created directory at: artifacts]
+[2024-02-29 14:44:42,646: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-29 14:44:42,820: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 14:44:42,895: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 14:44:43,267: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-29 14:44:43,508: INFO: stage_02_prepare_base_model: >>>>>>> stage Preparing Base Model completed <<<<<<<]
+[2024-02-29 14:44:51,503: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 14:44:52,672: INFO: stage_03_training: >>>>>>> stage Training started <<<<<<<]
+[2024-02-29 14:44:52,676: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:44:52,678: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:44:52,679: INFO: common: created directory at: artifacts]
+[2024-02-29 14:44:52,680: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 14:44:52,680: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 14:44:52,683: INFO: common: created directory at: artifacts\training]
+[2024-02-29 14:44:52,873: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 14:44:52,887: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 14:44:53,812: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 14:46:43,545: INFO: stage_03_training: >>>>>>> stage Training completed <<<<<<<]
+[2024-02-29 14:46:51,266: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 14:46:52,376: INFO: stage_04_evaluation: >>>>>>> stage Evaluation Stage started <<<<<<<]
+[2024-02-29 14:46:52,379: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 14:46:52,380: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 14:46:52,382: INFO: common: created directory at: artifacts]
+[2024-02-29 14:46:52,573: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 14:46:52,588: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 14:46:53,246: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 14:47:00,174: INFO: common: json file saved at: scores.json]
+[2024-02-29 14:47:00,175: INFO: stage_04_evaluation: >>>>>>> stage Evaluation Stage completed <<<<<<<]
