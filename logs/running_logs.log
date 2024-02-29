@@ -257,3 +257,244 @@ Source-Age: 0
 [2024-02-29 06:04:48,025: INFO: common: created directory at: artifacts]
 [2024-02-29 06:04:48,029: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
 [2024-02-29 06:04:48,032: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:29:21,478: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 06:29:23,156: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:29:23,159: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:29:23,161: INFO: common: created directory at: artifacts]
+[2024-02-29 06:29:23,163: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:29:23,166: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:31:30,945: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:31:30,950: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:31:30,953: INFO: common: created directory at: artifacts]
+[2024-02-29 06:31:30,956: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:31:30,959: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:32:40,768: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:32:40,774: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:32:40,778: INFO: common: created directory at: artifacts]
+[2024-02-29 06:32:40,781: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:32:40,784: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:37:50,971: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:37:50,977: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:37:50,980: INFO: common: created directory at: artifacts]
+[2024-02-29 06:37:50,982: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:37:50,984: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:49:18,060: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 06:50:22,971: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:50:22,976: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:50:22,980: INFO: common: created directory at: artifacts]
+[2024-02-29 06:50:22,982: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:50:22,985: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:54:37,487: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:54:37,491: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:54:37,493: INFO: common: created directory at: artifacts]
+[2024-02-29 06:54:37,496: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:54:37,499: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:55:27,663: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 06:55:29,313: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:55:29,316: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:55:29,318: INFO: common: created directory at: artifacts]
+[2024-02-29 06:55:29,320: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:55:29,322: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:56:02,881: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:56:02,888: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:56:02,892: INFO: common: created directory at: artifacts]
+[2024-02-29 06:56:02,898: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:56:02,900: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:56:12,858: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:56:12,864: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:56:12,867: INFO: common: created directory at: artifacts]
+[2024-02-29 06:56:12,870: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:56:12,872: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:56:46,223: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:56:46,227: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:56:46,229: INFO: common: created directory at: artifacts]
+[2024-02-29 06:56:46,231: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:56:46,233: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:56:46,235: INFO: common: created directory at: artifacts\training]
+[2024-02-29 06:57:22,440: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:57:22,445: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:57:22,447: INFO: common: created directory at: artifacts]
+[2024-02-29 06:57:22,449: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:57:22,450: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:57:22,453: INFO: common: created directory at: artifacts\training]
+[2024-02-29 06:57:46,275: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:57:46,289: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:57:46,290: INFO: common: created directory at: artifacts]
+[2024-02-29 06:57:46,291: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:57:46,294: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:57:46,296: INFO: common: created directory at: artifacts\training]
+[2024-02-29 06:57:46,795: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 06:57:46,917: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 06:59:34,543: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 06:59:34,547: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 06:59:34,550: INFO: common: created directory at: artifacts]
+[2024-02-29 06:59:34,553: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 06:59:34,555: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 06:59:34,557: INFO: common: created directory at: artifacts\training]
+[2024-02-29 06:59:36,312: WARNING: module_wrapper: From c:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 09:45:34,506: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 09:45:37,882: INFO: main: >>>>>>> stage Data Ingestion stage started <<<<<<<]
+[2024-02-29 09:45:37,894: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:45:37,903: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:45:37,905: INFO: common: created directory at: artifacts]
+[2024-02-29 09:45:37,906: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-29 09:45:45,631: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info : 
+Connection: close
+Content-Length: 11595077
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "610dd053ec8fbeb9803ceabd7ed103c59f22336d3578de69daa7fd818acde3e0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 4AE2:28C33:193365:1FCD78:65DF16A9
+Accept-Ranges: bytes
+Date: Thu, 29 Feb 2024 04:15:38 GMT
+Via: 1.1 varnish
+X-Served-By: cache-ccu830021-CCU
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1709180139.565427,VS0,VE288
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f3ecb85f33f480ced82e98ea776492f1fc759184
+Expires: Thu, 29 Feb 2024 04:20:38 GMT
+Source-Age: 0
+
+]
+[2024-02-29 09:45:46,542: INFO: main: >>>>>>> stage Data Ingestion stage completed <<<<<<<]
+[2024-02-29 09:45:46,543: INFO: main: >>>>>>> stage Prepare Base Model stage started <<<<<<<]
+[2024-02-29 09:45:46,546: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:45:46,549: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:45:46,550: INFO: common: created directory at: artifacts]
+[2024-02-29 09:45:46,552: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-29 09:45:46,987: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 09:45:47,152: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 09:45:47,886: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-29 09:45:48,301: INFO: main: >>>>>>> stage Prepare Base Model stage completed <<<<<<<]
+[2024-02-29 09:45:48,301: INFO: main: >>>>>>> stage Training started <<<<<<<]
+[2024-02-29 09:45:48,306: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:45:48,309: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:45:48,312: INFO: common: created directory at: artifacts]
+[2024-02-29 09:45:48,318: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 09:45:48,320: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 09:45:48,324: ERROR: main: 'WindowsPath' object has no attribute 'endswith']
+Traceback (most recent call last):
+  File "C:\Users\Soumyadipta\Desktop\Chicken-Disease-Classification\main.py", line 35, in <module>
+    obj.main()
+  File "c:\users\soumyadipta\desktop\chicken-disease-classification\src\cnnClassifier\pipeline\stage_03_training.py", line 17, in main
+    callback_list = prepare_callbacks.get_tb_ckpt_callbacks()
+  File "c:\users\soumyadipta\desktop\chicken-disease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 35, in get_tb_ckpt_callbacks
+    self._create_ckpt_callbacks
+  File "c:\users\soumyadipta\desktop\chicken-disease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 26, in _create_ckpt_callbacks
+    return tf.keras.callbacks.ModelCheckpoint(
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\callbacks.py", line 1369, in __init__
+    if filepath and filepath.endswith(".keras") and options is not None:
+AttributeError: 'WindowsPath' object has no attribute 'endswith'
+[2024-02-29 09:50:59,742: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 09:51:01,368: INFO: main: >>>>>>> stage Data Ingestion stage started <<<<<<<]
+[2024-02-29 09:51:01,371: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:51:01,374: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:51:01,376: INFO: common: created directory at: artifacts]
+[2024-02-29 09:51:01,376: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-29 09:51:01,377: INFO: data_ingestion: File already exists of size: ~ 11323 KB]
+[2024-02-29 09:51:02,081: INFO: main: >>>>>>> stage Data Ingestion stage completed <<<<<<<]
+[2024-02-29 09:51:02,081: INFO: main: >>>>>>> stage Prepare Base Model stage started <<<<<<<]
+[2024-02-29 09:51:02,083: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:51:02,085: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:51:02,088: INFO: common: created directory at: artifacts]
+[2024-02-29 09:51:02,089: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-29 09:51:02,457: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 09:51:02,579: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 09:51:03,076: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-29 09:51:03,409: INFO: main: >>>>>>> stage Prepare Base Model stage completed <<<<<<<]
+[2024-02-29 09:51:03,409: INFO: main: >>>>>>> stage Training started <<<<<<<]
+[2024-02-29 09:51:03,413: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:51:03,415: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:51:03,417: INFO: common: created directory at: artifacts]
+[2024-02-29 09:51:03,418: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 09:51:03,418: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 09:51:03,421: ERROR: main: 'WindowsPath' object has no attribute 'endswith']
+Traceback (most recent call last):
+  File "C:\Users\Soumyadipta\Desktop\Chicken-Disease-Classification\main.py", line 35, in <module>
+    obj.main()
+  File "c:\users\soumyadipta\desktop\chicken-disease-classification\src\cnnClassifier\pipeline\stage_03_training.py", line 17, in main
+    callback_list = prepare_callbacks.get_tb_ckpt_callbacks()
+  File "c:\users\soumyadipta\desktop\chicken-disease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 35, in get_tb_ckpt_callbacks
+    self._create_ckpt_callbacks
+  File "c:\users\soumyadipta\desktop\chicken-disease-classification\src\cnnClassifier\components\prepare_callbacks.py", line 26, in _create_ckpt_callbacks
+    return tf.keras.callbacks.ModelCheckpoint(
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\callbacks.py", line 1369, in __init__
+    if filepath and filepath.endswith(".keras") and options is not None:
+AttributeError: 'WindowsPath' object has no attribute 'endswith'
+[2024-02-29 09:52:32,073: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-02-29 09:52:33,698: INFO: main: >>>>>>> stage Data Ingestion stage started <<<<<<<]
+[2024-02-29 09:52:33,702: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:52:33,704: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:52:33,705: INFO: common: created directory at: artifacts]
+[2024-02-29 09:52:33,708: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-29 09:52:42,574: INFO: data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info : 
+Connection: close
+Content-Length: 11595077
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "610dd053ec8fbeb9803ceabd7ed103c59f22336d3578de69daa7fd818acde3e0"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E0A8:2BD571:45176B:5A2E90:65E0068A
+Accept-Ranges: bytes
+Date: Thu, 29 Feb 2024 04:22:35 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10230-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1709180554.383950,VS0,VE831
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 477082012da4b783f81b74c411e4e232e3f0dd94
+Expires: Thu, 29 Feb 2024 04:27:35 GMT
+Source-Age: 0
+
+]
+[2024-02-29 09:52:43,500: INFO: main: >>>>>>> stage Data Ingestion stage completed <<<<<<<]
+[2024-02-29 09:52:43,504: INFO: main: >>>>>>> stage Prepare Base Model stage started <<<<<<<]
+[2024-02-29 09:52:43,509: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:52:43,515: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:52:43,517: INFO: common: created directory at: artifacts]
+[2024-02-29 09:52:43,529: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-02-29 09:52:43,930: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-02-29 09:52:44,057: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-02-29 09:52:44,734: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-02-29 09:52:45,096: INFO: main: >>>>>>> stage Prepare Base Model stage completed <<<<<<<]
+[2024-02-29 09:52:45,096: INFO: main: >>>>>>> stage Training started <<<<<<<]
+[2024-02-29 09:52:45,099: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-29 09:52:45,103: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-29 09:52:45,105: INFO: common: created directory at: artifacts]
+[2024-02-29 09:52:45,113: INFO: common: created directory at: artifacts\prepare_callbacks\checkpoint_dir]
+[2024-02-29 09:52:45,114: INFO: common: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir]
+[2024-02-29 09:52:45,118: INFO: common: created directory at: artifacts\training]
+[2024-02-29 09:52:46,649: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+]
+[2024-02-29 09:56:28,795: INFO: main: >>>>>>> stage Training completed <<<<<<<]
