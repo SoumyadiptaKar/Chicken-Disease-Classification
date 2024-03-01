@@ -740,3 +740,84 @@ Source-Age: 0
 [2024-02-29 17:43:42,863: INFO: _internal: 127.0.0.1 - - [29/Feb/2024 17:43:42] "GET / HTTP/1.1" 200 -]
 [2024-02-29 17:44:37,698: INFO: _internal: 127.0.0.1 - - [29/Feb/2024 17:44:37] "POST /predict HTTP/1.1" 200 -]
 [2024-02-29 17:44:54,646: INFO: _internal: 127.0.0.1 - - [29/Feb/2024 17:44:54] "POST /predict HTTP/1.1" 200 -]
+[2024-03-01 08:31:50,357: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 08:31:54,998: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 08:31:54,999: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 08:31:59,363: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:31:59] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:31:59,467: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:31:59] "[33mGET /templates/index.html HTTP/1.1[0m" 404 -]
+[2024-03-01 08:32:55,395: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:32:55] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:32:55,468: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:32:55] "[33mGET /templates/index.html HTTP/1.1[0m" 404 -]
+[2024-03-01 08:33:13,409: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:33:13] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:33:13,529: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:33:13] "[33mGET /templates/index.html HTTP/1.1[0m" 404 -]
+[2024-03-01 08:34:36,728: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 08:34:39,684: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 08:34:39,686: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 08:34:45,736: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:34:45] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:34:45,928: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:34:45] "[33mGET /logo.png HTTP/1.1[0m" 404 -]
+[2024-03-01 08:34:51,909: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:34:51] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:34:52,232: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:34:52] "[33mGET /logo.png HTTP/1.1[0m" 404 -]
+[2024-03-01 08:35:02,665: INFO: _internal: 192.168.1.3 - - [01/Mar/2024 08:35:02] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:35:02,938: INFO: _internal: 192.168.1.3 - - [01/Mar/2024 08:35:02] "[33mGET /logo.png HTTP/1.1[0m" 404 -]
+[2024-03-01 08:37:22,935: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:37:22] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:37:23,036: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:37:23] "[33mGET /logo.png HTTP/1.1[0m" 404 -]
+[2024-03-01 08:42:12,571: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:42:12] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:42:12,672: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:42:12] "[33mGET /logo.png HTTP/1.1[0m" 404 -]
+[2024-03-01 08:43:03,192: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:43:03] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:43:03,266: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:43:03] "[33mGET /logo.png HTTP/1.1[0m" 404 -]
+[2024-03-01 08:43:04,451: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:43:04] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:43:04,549: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:43:04] "[33mGET /logo.png HTTP/1.1[0m" 404 -]
+[2024-03-01 08:43:39,154: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-03-01 08:43:39,199: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-03-01 08:43:40,488: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:43:40] "POST /predict HTTP/1.1" 200 -]
+[2024-03-01 08:43:43,357: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:43:43] "POST /predict HTTP/1.1" 200 -]
+[2024-03-01 08:45:53,384: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 08:45:56,067: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 08:45:56,067: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 08:46:06,930: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:46:06] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:56:16,413: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 08:56:19,374: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 08:56:19,375: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 08:56:22,225: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:56:22] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:58:39,849: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:58:39] "GET / HTTP/1.1" 200 -]
+[2024-03-01 08:58:57,093: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 08:59:00,053: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 08:59:00,054: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 08:59:08,829: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 08:59:08] "GET / HTTP/1.1" 200 -]
+[2024-03-01 09:00:12,256: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 09:00:14,618: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 09:00:14,619: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 09:00:28,354: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 09:00:28] "GET / HTTP/1.1" 200 -]
+[2024-03-01 09:01:16,916: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 09:01:19,177: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 09:01:19,178: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 09:01:21,608: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 09:01:21] "GET / HTTP/1.1" 200 -]
