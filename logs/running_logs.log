@@ -834,3 +834,46 @@ Source-Age: 0
 [2024-03-01 09:07:56,757: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
 ]
 [2024-03-01 09:07:57,966: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 09:07:57] "POST /predict HTTP/1.1" 200 -]
+[2024-03-01 11:04:17,864: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 11:04:21,603: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 11:04:21,604: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 11:04:27,777: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 11:04:27] "GET / HTTP/1.1" 200 -]
+[2024-03-01 11:04:45,448: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 11:04:45] "GET /train HTTP/1.1" 200 -]
+[2024-03-01 11:05:35,453: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 11:05:35] "GET / HTTP/1.1" 200 -]
+[2024-03-01 11:05:43,504: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-03-01 11:05:43,534: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-03-01 11:05:44,412: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 11:05:44] "POST /predict HTTP/1.1" 200 -]
+[2024-03-01 11:05:56,517: ERROR: app: Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\flask\app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\flask_cors\decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+  File "C:\Users\Soumyadipta\Desktop\Chicken-Disease-Classification\app.py", line 38, in predictRoute
+    result = clApp.classifier.predict()
+  File "c:\users\soumyadipta\desktop\chicken-disease-classification\src\cnnClassifier\pipeline\predict.py", line 14, in predict
+    model = load_model(os.path.join("artifacts","training", "model.h5"))
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\saving\saving_api.py", line 262, in load_model
+    return legacy_sm_saving_lib.load_model(
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\saving\legacy\save.py", line 234, in load_model
+    raise IOError(
+OSError: No file or directory found at artifacts\training\model.h5
+[2024-03-01 11:05:56,534: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 11:05:56] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-03-01 11:06:04,726: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 11:06:04] "GET / HTTP/1.1" 200 -]
+[2024-03-01 11:06:19,277: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 11:06:19] "GET /train HTTP/1.1" 200 -]
