@@ -821,3 +821,16 @@ Source-Age: 0
  * Running on http://192.168.1.3:8080]
 [2024-03-01 09:01:19,178: INFO: _internal: [33mPress CTRL+C to quit[0m]
 [2024-03-01 09:01:21,608: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 09:01:21] "GET / HTTP/1.1" 200 -]
+[2024-03-01 09:02:43,152: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+]
+[2024-03-01 09:02:46,167: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080]
+[2024-03-01 09:02:46,168: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-01 09:02:47,083: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 09:02:47] "GET / HTTP/1.1" 200 -]
+[2024-03-01 09:07:56,718: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+]
+[2024-03-01 09:07:56,757: WARNING: module_wrapper: From C:\Users\Soumyadipta\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+]
+[2024-03-01 09:07:57,966: INFO: _internal: 127.0.0.1 - - [01/Mar/2024 09:07:57] "POST /predict HTTP/1.1" 200 -]
