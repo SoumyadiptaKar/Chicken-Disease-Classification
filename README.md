@@ -43,6 +43,9 @@ Author: Soumyadipta Kar
 Email: soumyadipta.kar2002@gmail.com
 ```
 
-Prediction:
-![https://github.com/SoumyadiptaKar/Chicken-Disease-Classification/assets/69068577/2781f921-4c6f-4435-963b-61345a9c1aaa]
+## Prediction:
+
+https://github.com/SoumyadiptaKar/Chicken-Disease-Classification/assets/69068577/5825f343-d731-4510-a2a9-727aae379242
+
+
 
